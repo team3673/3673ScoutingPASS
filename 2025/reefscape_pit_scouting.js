@@ -14,7 +14,7 @@ var config_data = `
       "type": "number",
       "defaultValue": "0"
     },
-    { "name": Width (In Inches)",
+    { "name": "Width (In Inches)",
       "code": "wdi",
       "type": "number",
       "defaultValue": "0"

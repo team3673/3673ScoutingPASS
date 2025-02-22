@@ -9,12 +9,17 @@ var config_data = `
       "code": "t",
       "type": "number"
     },
-    { "name": "Width",
-      "code": "wid",
+    { "name": "Width (In Feet)",
+      "code": "wdf",
       "type": "number",
       "defaultValue": "0"
     },
-    { "name": "Weight",
+    { "name": Width (In Inches)",
+      "code": "wdi",
+      "type": "number",
+      "defaultValue": "0"
+    },
+    { "name": "Weight (In Pounds)",
       "code": "wei",
       "type": "number",
       "defaultValue": "0"

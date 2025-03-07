@@ -9,13 +9,13 @@ var config_data = `
       "code": "t",
       "type": "number"
     },
-    { "name": "Width (In Feet)",
-      "code": "wdf",
+    { "name": "Width (In Inches)",
+      "code": "wdi",
       "type": "number",
       "defaultValue": "0"
     },
-    { "name": "Width (In Inches)",
-      "code": "wdi",
+    { "name": "Length (In Inches)",
+      "code": "lni",
       "type": "number",
       "defaultValue": "0"
     },
